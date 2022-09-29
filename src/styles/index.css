@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Nunito:wght@300;400&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2E3440;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+#particles {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  position: fixed;
+}
+
+#content-main {
+  color: #ECEFF4;
+  text-align: center;
+  width: 100%;
+}
+
+#attr {
+  color: #4C566A;
+  font-size: 8pt;
+}
+
+#attr a {
+  color: #4C566A
+}
+
+p {
+  padding: 0 32px;
+}
+
+h1 {
+  font-size: 28pt;
+}
+
+h2 {
+  font-size: 20pt;
+}

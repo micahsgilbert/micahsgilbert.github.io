@@ -1,0 +1,26 @@
+[
+  {
+    "name": "email",
+    "url": "mailto:micahsgilbert@gmail.com",
+    "imageType": "svg",
+    "imageSrc": "assets/email.svg"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/micahsgilbert",
+    "imageType": "svg",
+    "imageSrc": "assets/github.svg"
+  },
+  {
+    "name": "keybase",
+    "url": "https://keybase.io/micahsgilbert",
+    "imageType": "img",
+    "imageSrc": "assets/keybase.png"
+  },
+  {
+    "name": "resume",
+    "url": "/resume.pdf",
+    "imageType": "img",
+    "imageSrc": "assets/resume.png"
+  }
+]

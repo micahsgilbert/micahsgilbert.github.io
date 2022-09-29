@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    text-align: center;
+}
+
+#q {
+    text-align: center;
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+#in {
+    text-align: center;
+    font-size: 24pt;
+    width: 100px;
+    padding: 24px
+}
+
+#correct {
+    text-align: center;
+    font-size: 48pt;
+    color: red;
+    font-weight: bold;
+}
