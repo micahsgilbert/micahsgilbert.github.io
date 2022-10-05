@@ -30,6 +30,7 @@ jobs:
     - run: git config user.name github-actions
     - run: git config user.email github-actions@github.com
     - run: cp assets/* dist/assets/
+    - run: echo "micahsgilbert.dev" > dist/CNAME
     - run: git --work-tree dist add --all
     - run: git commit -m "Automatic Build & Deploy"
     - run: git push origin HEAD:gh-pages --force
