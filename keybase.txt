@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/micahsgilbert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://micahsgilbert.dev
+  * I am micahsgilbert (https://keybase.io/micahsgilbert) on keybase.
+  * I have a public key with fingerprint D431 F685 E81D EA48 12C9  2340 A922 B2EF A912 48AC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e0a2721889a284ba90b88e7a92d9050ce99cfd9e643873156d004991d7e4bc920a",
+      "fingerprint": "d431f685e81dea4812c92340a922b2efa91248ac",
+      "host": "keybase.io",
+      "key_id": "a922b2efa91248ac",
+      "kid": "01010f1008748e1e3e56dceb3bd16c7a98cd9edad1d65035076401bc27d1458eaa3e0a",
+      "uid": "3bf8cdac80e5775ec8c119b2e62fb819",
+      "username": "micahsgilbert"
+    },
+    "service": {
+      "hostname": "micahsgilbert.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1596410847,
+  "expire_in": 157680000,
+  "prev": "23f74269507637d17661c76069e622c0542dd00921c8123cb4e317849ca2c70d",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUntQVFUcXnRRWJEBDFLG1bhOYSPu3nPv3fuAAqYoQcaRfKxTw7jcx1m4sOxu
+e5elhYxkhkGcaaqVUIhXAwmo1IhmoSOF1hhrKY8gIcsRoiAdiVeEUHaWif88548z
+5/y+7zvf7/He2pUqjV8L1jbREpZ8xu/6uKAyRaeOFGKCTXJjsYVYDlw6oEWCitOU
+I0tYLIYDAoc4TzAEYFmOJ1hK4DlcYFnI8BwhcbgBFyHHiWaJgzRFsgwJDLSE4xTH
+AYmBlCByBM5jMZhZtmZCh90hW51IVqJIYKZZA2SBBHmKBQTCkRSONAmBgGaeAwTF
+8iIiZtkUHwOZE3gF6mQbekMX05K9x+CXfaNtBjjOMhQLASQhsiVCgRQkQIvIOysi
+xxIvAYk24KQBZ2gKB4JIMBKgDCzkeRIu+c5bkiMFMyLwIotDA8MYoMiKAHDoZ5ow
+CyzgfEAFOqx8LkToXFnks5RM2SJAhxM7FIOhkEsWoa+6vnQeB9NJ0IVU7A6b0yba
+LCic5XTalVgf3em2+/D5UDD9r2QSZKuEKooYLuhQZJsViwUIKTplnzQwcDQFcJZi
+YjD4hl12QJPsQxgYmsXR8v0DXQLSJEgzQxE05ysAiXJnaBqIDI3TqJ0EIeIGipBQ
+OzkCiKhJpChQkAQMS3EiT4gMLmG+5F632rBYFvnkM5GkImdaeWeeA2KHNGUrSLXK
+T6PSRkSpfwB/lYxp/0gO69qSuDyF/it8I6jSBIYsv0RMhqhar32yc/98bXJ1E47P
+5CUtWrs1i6VDT2wr9C9oUp/fXRZ4mQlorlPPjTpPW/yTVo2k7q+65GktXijlXiov
+8ne5N3s7LPtab0Uq9N2J+urB75KL2w8WxmuLjr3V21zh2YDPH/lVGMvKl8J1dfHe
+vppN//akXSaGTt5fKE3fZOxoLGiNLtmX/3vNXer4jVdursmAU7s76/7O0Sy+fy/c
+WMZMfzMp7TyYmKKMGn+cvjTYdjtgrqJTc7Xd67CcUOWfbpgJ/zLMsr5iy4ey6QVr
+VVHkUPrqNY+6h4P0KSO7dr08Ma5qmN164krlRWtcx7abR8ceXsgP3qN0vfazcXvL
+3pq+UGE4Y0Yb9eTts/4X6OzenrjhWjj7eWPu2QF1eMaRf4YPhL7Y5/aqKiM/bjbX
+uy1aV8qDgCAaRO+oib/RMPncn6vWeQabAx/ok5O6y2fnQpjIjXcaNKnvfn1YlfIo
+Q3Ft6Dr+fOF4zb2AiKPXVk9qKiq/qNdX3gnu/3TggFh68hfvs1/FNZ1xS9dfTS95
+psBUe073MHSjrlh/Za32vke1Qxfk7h0/plc6x9v7aTpxvk1I21OSvVWYajO+OdMR
+eHVlwrnvvQ5n4/og+9OfrUv46FY5oZ86xQ+PV1a//cF510+bFwZCPOmHn5q+GKz6
+NspsrPotOy0Ye6d5dG9Jom40Ybu6P6vHcyroPw==
+=OblY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/micahsgilbert
+
+==================================================================
